@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.3);
+    width: 350px;
+    margin: 80px auto;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+.buttons button {
+    font-size: 18px;
+    padding: 10px;
+    margin: 5px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 6px;
+    border: none;
+}
+
+.reset {
+    margin-top: 15px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
